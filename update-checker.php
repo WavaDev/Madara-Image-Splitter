@@ -1,4 +1,4 @@
 {
-    "new_version": "1.0.2",
-    "url": "https://yourserver.com/path/to/update.zip"
+    "new_version": "1.0.3",
+    "url": "https://github.com/WavaDev/Madara-Image-Splitter/raw/main/update.zip"
 }
