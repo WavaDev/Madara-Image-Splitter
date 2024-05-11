@@ -1,6 +1,6 @@
 # Madara-Image-Splitter
 
-# Works: 2 May 2024
+# Works: 11 May 2024
 
 Use our open-source plugin with the Madara theme to automatically cut images taller than 1000 px when uploading chapters. No extra setup needed!
 
