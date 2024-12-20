@@ -1,13 +1,13 @@
 {
     "name": "WP Manga - Image Cutter & WebP Converter",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "download_url": "https://github.com/WavaDev/Madara-Image-Splitter/archive/main.zip",
     "homepage": "https://sectscans.com/",
     "requires": "5.0",
     "tested": "6.4",
     "author": "WavaDev",
     "author_homepage": "https://sectscans.com/",
-    "last_updated": "2024-12-20",
+    "last_updated": "2024-12-21",
     "sections": {
         "description": "Cut manga images if their height exceeds 1000px and converts them to WebP format for better performance.",
         "changelog": "* 1.0.5 - Added WebP conversion and improved image splitting reliability\n* 1.0.4 - Initial release with image splitting functionality"
